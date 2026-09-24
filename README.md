@@ -64,23 +64,26 @@ RetailSalesAnalytics/
 │   └── Stores.csv
 │
 ├── images/
-│   ├── revenue_by_category.png
-│   ├── revenue_by_payment_method.png
-│   ├── monthly_revenue_trend.png
-│   ├── Top_10_Customers_By_Revenue.png
+│   ├── Revenue_by_category.png
+│   ├── Revenue_by_payment_method.png
+│   ├── Monthly_Revenue_Trend.png
+│   ├── Top_10_Customers_By_revenue.png
 │   ├── Revenue_By_Store.png
-│   └── Top_10_Products_By_revenue.png
-|
+│   ├── Top_10_Products_By_revenue.png
+│   ├── correlation_heatmap.png
+│   ├── revenue_distribution.png
+│   ├── revenue_boxplot.png
+│   └── revenue_distribution_category.png
+│
 ├── notebooks/
-│   ├── RetailSalesETLAnalytics.ipynb
-|
+│   └── RetailSalesETLAnalytics.ipynb
+│
 ├── output/
 │   └── RetailSalesETL/                 # Processed CSV output
 │
+├── requirements.txt
 ├── README.md
 └── .gitignore
-
-```
 
 ---
 
