@@ -1,0 +1,21 @@
+StoreID,StoreName,StoreState,StoreCity,Manager
+S001,Store1,Koshi,Lalitpur,Kiran Sharma
+S002,Store2,Koshi,Janakpur,Kiran Karki
+S003,Store3,Bagmati,Lalitpur,Nisha Lama
+S004,Store4,Madhesh,Kathmandu,
+S005,Store5,Madhesh,Kathmandu,Suman Rai
+S006,Store6,Koshi,Bharatpur,Roshan Pandey
+S007,Store7,Gandaki,Pokhara,Kiran Gurung
+S008,Store8,Koshi,Lalitpur,Anita Shrestha
+S009,Store9,Koshi,Janakpur,Pooja KC
+S010,Store10,Lumbini,Janakpur,Bikash Pandey
+S011,Store11,Gandaki,Dharan,Gita Adhikari
+S012,Store12,Bagmati,Nepalgunj,Sita Shrestha
+S013,Store13,Gandaki,Janakpur,Sita Gurung
+S014,Store14,Madhesh,Kathmandu,Roshan Adhikari
+S015,Store15,Koshi,Dharan,Aarav Thapa
+S016,Store16,Madhesh,Janakpur,Kiran Pandey
+S017,Store17,Koshi,Kathmandu,Nisha Karki
+S018,Store18,Madhesh,Pokhara,Prakash Karki
+S019,Store19,Koshi,Nepalgunj,Sita Sharma
+S020,Store20,Madhesh,Butwal,Sabina Rai
