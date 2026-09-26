@@ -49,7 +49,7 @@ An end-to-end **ETL (Extract, Transform, Load)** and **Business Analytics** proj
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 RetailSalesAnalytics/
@@ -84,6 +84,8 @@ RetailSalesAnalytics/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+```
 
 ---
 
@@ -133,27 +135,31 @@ The project performs comprehensive retail analytics covering sales ,customers, p
 ---
 
 ## Visualizations
+The project includes business and statistical visualizations created using **Matplotlib** and **Seaborn**. Below are representative examples.
 
-| Revenue by Category | Revenue by Store |
-|:---------------------:|:----------------:|
-| <img src="images/Revenue_by_category.png" width="100%"> | <img src="images/Revenue_By_Store.png" width="100%"> |
+- Correlation Heatmap
 
-| Revenue by Payment Method | Monthly Revenue Trend |
-|:-------------------------:|:---------------------:|
-| <img src="images/Revenue_by_payment_method.png" width="100%"> | <img src="images/Monthly_Revenue_Trend.png" width="100%"> |
+![Correlation Heatmap](images/correlation_heatmap.png)
 
-| Top 10 Customers by Revenue | Top 10 Products by Revenue |
-|:---------------------------:|:--------------------------:|
-| <img src="images/Top_10_Customers_By_revenue.png" width="100%"> | <img src="images/Top_10_Products_By_revenue.png" width="100%"> |
+---
 
-| Correlation Heatmap | Revenue Distribution (Histogram + KDE) |
-|:-------------------:|:--------------------------------------:|
-| <img src="images/correlation_heatmap.png" width="100%"> | <img src="images/revenue_distribution.png" width="100%"> |
+- Revenue Distribution (Histogram + KDE)
 
-| Revenue Distribution (Box Plot) | Revenue Distribution by Category (Violin Plot) |
-|:-------------------------------:|:----------------------------------------------:|
-| <img src="images/revenue_boxplot.png" width="100%"> | <img src="images/revenue_distribution_category.png" width="100%"> |
+![Revenue Distribution](images/revenue_distribution.png)
 
+---
+
+- Revenue Distribution (Box Plot)
+
+![Revenue Distribution](images/revenue_boxplot.png)
+
+---
+
+- Revenue Distribution by Category(Violin Plot)
+
+![Revenue Distribution by Category](images/revenue_distribution_category.png)
+
+---
 ## How to Use
 
 ### 1. Clone the repository
